@@ -29,6 +29,5 @@ window.onload = function() {
 
     document.getElementById("excuse").innerHTML = excuse;
   }
-
-  setExcuse(); // Llama a la función setExcuse() para establecer una excusa al cargar la página
+  setExcuse();
 };
